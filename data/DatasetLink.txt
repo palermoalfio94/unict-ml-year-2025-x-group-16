@@ -1,0 +1,3 @@
+Poiché il dataset di immagini occupa uno spazio elevato ho messo a disposizione un link a one drive qual ora si volesse provare il training.
+Le cartelle vanno messe nello stessa directory dei file notebook.
+https://1drv.ms/f/c/af92aa9b11fa9de2/IgAfNhbh8ECOTKhHZcet3rj9AbEC7UBBpBmodH0Be_qr8Bo?e=Wucwyh
